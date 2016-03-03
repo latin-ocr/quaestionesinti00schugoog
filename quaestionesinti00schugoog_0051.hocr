@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quaestionesinti00schugoog_0051.png"; bbox 0 0 3156 5040; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 681 2227 1010 2311">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 681 2227 1010 2311">
+     <span class='ocr_line' id='line_1_1' title="bbox 681 2227 1010 2311; baseline -0.009 -15"><span class='ocrx_word' id='word_1_1' title='bbox 681 2227 1010 2311; x_wconf 81' lang='lat' dir='ltr'><strong>CORRIGENDA.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 418 2353 937 2486">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 418 2353 937 2486">
+     <span class='ocr_line' id='line_1_2' title="bbox 418 2353 937 2486; baseline 0.002 -18"><span class='ocrx_word' id='word_1_2' title='bbox 418 2421 448 2484; x_wconf 87' lang='lat' dir='ltr'><strong>p.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 472 2403 512 2468; x_wconf 79' lang='lat'><strong>32</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 535 2406 612 2470; x_wconf 81' lang='lat' dir='ltr'>extr.</span> <span class='ocrx_word' id='word_1_5' title='bbox 636 2403 696 2486; x_wconf 82' lang='lat' dir='ltr'>leg.</span> <span class='ocrx_word' id='word_1_6' title='bbox 720 2353 937 2483; x_wconf 48' lang='lat' dir='ltr'><strong>‚valeffitfi</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 420 2504 1263 2590">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 420 2504 1263 2590">
+     <span class='ocr_line' id='line_1_3' title="bbox 420 2504 1263 2590; baseline 0 -18"><span class='ocrx_word' id='word_1_7' title='bbox 420 2525 451 2588; x_wconf 89' lang='lat' dir='ltr'><strong>p.</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 475 2507 516 2572; x_wconf 84' lang='grc'><strong>39</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 539 2526 567 2575; x_wconf 88' lang='lat' dir='ltr'><strong>v.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 592 2507 612 2570; x_wconf 79' lang='lat'><strong>2</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 634 2506 693 2589; x_wconf 85' lang='lat' dir='ltr'><strong>leg.</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 718 2525 775 2590; x_wconf 89' lang='lat' dir='ltr'><strong>pro</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 798 2523 878 2586; x_wconf 81' lang='lat' dir='ltr'>‚esse</span> <span class='ocrx_word' id='word_1_14' title='bbox 900 2504 1027 2574; x_wconf 71' lang='lat' dir='ltr'>faetum‘</span> <span class='ocrx_word' id='word_1_15' title='bbox 1051 2505 1180 2587; x_wconf 77' lang='lat' dir='ltr'><strong>‚factum</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 1202 2507 1263 2572; x_wconf 86' lang='lat' dir='ltr'><strong>sit‘.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1582 5040">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1582 5040">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1582 5040; baseline 0 0"><span class='ocrx_word' id='word_1_17' title='bbox 0 0 1582 5040; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
